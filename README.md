@@ -18,7 +18,7 @@ These bots run on Projection Finance through a single venue adapter on the share
 
 | Strategy |
 |----------|
-| 🎯 **Direction Hunting** — define the edge once, the engine grinds 24/7 (auto TP + SL) |
+| 🎯 **Directional Arbitrage** — arb base (Up + Down < $1), tilted toward the side with more edge |
 | 📈 **Spread Farming** — a thousand 0.5¢ wins compound into one number |
 
 > Want a strategy not listed here on Projection Finance? Adapter coverage is demand-driven — [ask](https://t.me/HarrierOnChain).

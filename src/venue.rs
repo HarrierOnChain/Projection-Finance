@@ -11,6 +11,6 @@ pub const VENUE_TYPE: &str = "Volatility / sims";
 
 /// Strategies this venue runs on the shared engine.
 pub const STRATEGIES: &[&str] = &[
-    "Direction Hunting",
+    "Directional Arbitrage",
     "Spread Farming",
 ];
